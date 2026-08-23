@@ -20,6 +20,66 @@ Proxmox VE runs directly on the physical desktop and hosts separate virtual mach
 
 The design keeps normal daily work, gaming, and cybersecurity tools separated while allowing the same hardware to support all three roles.
 
+## Project objectives
+
+The objective of this project is to design, build, document, and evaluate a practical cybersecurity homelab using existing consumer hardware.
+
+The project is intended to demonstrate the ability to combine virtualization, networking, system administration, security controls, monitoring, and technical documentation into a usable lab environment rather than treating each technology as an isolated exercise.
+
+Specific objectives are to:
+
+- Build a stable Proxmox VE virtualization platform.
+- Separate normal workstation, Windows, infrastructure, and cybersecurity workloads.
+- Provide reusable and disposable security-testing environments.
+- Introduce firewall-controlled network isolation for lab systems.
+- Establish secure management paths using WireGuard and SSH.
+- Implement basic infrastructure and service monitoring.
+- Test backup and recovery rather than relying on unverified backups.
+- Document design decisions, failures, troubleshooting, and improvements.
+- Produce a platform that can support later cybersecurity portfolio projects.
+
+## Project scope
+
+### In scope
+
+- Proxmox VE host configuration and administration
+- Linux and Windows virtual machines
+- PCIe and GPU passthrough
+- OPNsense firewalling and lab-network isolation
+- Routed and NAT-based virtual networking
+- WireGuard management connectivity
+- Linux infrastructure services
+- Monitoring and service-health tooling
+- VM backup, snapshots, and restoration testing
+- Disposable cybersecurity environments
+- Sanitized public technical documentation
+
+### Out of scope
+
+This project is not intended to:
+
+- Provide enterprise-grade high availability
+- Host production services
+- Expose administrative interfaces directly to the public Internet
+- Test against systems without explicit authorization
+- Replicate a complete enterprise SOC or datacentre
+- Introduce additional complexity purely for the sake of adding technologies
+
+Later projects in this portfolio can build on the lab without requiring the core platform to solve every cybersecurity problem itself.
+
+## Success criteria
+
+The project will be considered successful when:
+
+- Core virtual machines can be started and used reliably.
+- Linux and Windows GPU passthrough operate consistently.
+- Security-testing systems are logically separated from trusted workloads.
+- Lab systems can reach required services without unrestricted access to trusted networks.
+- Administrative access is available through controlled management paths.
+- Critical virtual machines can be restored from backup.
+- Basic infrastructure health can be monitored centrally.
+- Configuration and architecture are documented well enough for the environment to be understood and rebuilt.
+- The lab can support future security exercises without requiring major redesign.
 ## Current status
 
 | Component | Status |
