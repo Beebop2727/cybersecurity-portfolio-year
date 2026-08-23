@@ -3,8 +3,8 @@
 > A dual-GPU Proxmox workstation combining Linux productivity, Windows gaming, and isolated cybersecurity testing on one physical system.
 
 **Portfolio project:** 01  
-**Current phase:** V1 operational; V1.5 integration and refinement  
-**Last updated:** 3 August 2026  
+**Current phase:** V2 operational but in development
+**Last updated:** 23 August 2026  
 **Detailed technical repository:** [proxmox-workstation-platform](https://github.com/Beebop2727/proxmox-workstation-platform)
 
 ## Project overview
