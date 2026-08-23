@@ -12,7 +12,7 @@ Each month produces a GitHub folder with a write-up, diagrams, and professional 
 
 | # | Project | Status | Skills |
 |---|---------|--------|--------|
-| 01 | [Personal cyber lab build](01-cyber-lab-build/) | 🔜 Upcoming | Networking, Linux, virtualisation, documentation |
+| 01 | [Personal cyber lab build](01-cyber-lab-build/) | 🚧 In progress | Networking, Linux, virtualisation, documentation |
 | 02 | [OWASP Top 10 mini-series](02-owasp-top-10/) | 🔜 Upcoming | Web app security, ethical hacking, remediation |
 | 03 | [Vulnerability management dashboard](03-vulnerability-management/) | 🔜 Upcoming | Vulnerability scanning, risk rating, reporting |
 | 04 | [Healthcare cyber risk register](04-healthcare-risk-register/) | 🔜 Upcoming | Governance, risk management, public-sector context |
