@@ -87,17 +87,24 @@ The project will be considered successful when:
 | Proxmox VE host | ✅ Operational |
 | Ubuntu workstation VM | ✅ Operational |
 | Windows 11 gaming VM | ✅ Operational |
+| Bare-metal Windows 11 | ✅ Operational |
 | Parrot OS base VM | ✅ Operational |
 | Parrot OS disposable VM | ✅ Operational |
+| OPNsense firewall VM | ✅ Operational |
+| Isolated cybersecurity lab network | ✅ Operational |
+| Ubuntu Server infrastructure host | ✅ Operational |
 | AMD Radeon Pro WX 3100 passthrough | ✅ Operational |
 | NVIDIA GeForce RTX 4070 passthrough | ✅ Operational |
 | Looking Glass B7 integration | ✅ Operational |
 | Routed VM networking over Wi-Fi | ✅ Operational |
-| WireGuard host management | ✅ Operational |
+| WireGuard management connectivity | ✅ Operational |
 | Synergy keyboard and mouse sharing | ✅ Operational |
 | VM backup and restoration testing | ✅ Complete |
-| Bare-metal Windows extension | 🚧 In progress |
-| Monitoring and further lab services | 🔜 Planned |
+| Grafana / Prometheus monitoring | ✅ Operational |
+| Uptime Kuma monitoring | 🚧 In progress |
+| Dockur Windows environment | 🧪 Proof of concept |
+| WinApps / RemoteApp integration | 🚧 In progress |
+| VLAN segmentation | 🔜 Planned |
 
 ## Hardware platform
 
@@ -105,7 +112,7 @@ The project will be considered successful when:
 |---|---|
 | CPU | AMD Ryzen 9 3900X — 12 cores / 24 threads |
 | Motherboard | MSI MPG X570 Gaming Pro Carbon WiFi |
-| Memory | 32 GB DDR4 |
+| Memory | 64 GB DDR4 |
 | Ubuntu GPU | AMD Radeon Pro WX 3100, 4 GB |
 | Windows GPU | NVIDIA GeForce RTX 4070 |
 | Wireless adapter | Intel Wi-Fi 6 AX200 |
