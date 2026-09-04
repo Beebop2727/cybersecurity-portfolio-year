@@ -31,7 +31,7 @@ The final project pulls the year together into a comprehensive cyber resilience 
 - [ ] Technical appendix
 - [ ] Architecture diagrams
 - [ ] Risk register
-- [ ] Incident response playbook (refined from project 05)
+- [ ] Incident response playbook (refined from project 06)
 - [ ] Lessons learned across the year
 - [ ] LinkedIn portfolio showcase post
 

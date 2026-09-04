@@ -1,4 +1,4 @@
-# 07 — Phishing awareness campaign
+# 08 — Phishing awareness campaign
 
 ## Overview
 

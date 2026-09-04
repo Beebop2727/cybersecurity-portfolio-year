@@ -1,4 +1,4 @@
-# 02 — OWASP Top 10 mini-series
+# 03 — OWASP Top 10 mini-series
 
 ## Overview
 

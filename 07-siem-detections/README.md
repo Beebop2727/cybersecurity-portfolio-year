@@ -1,4 +1,4 @@
-# 06 — SIEM detection project
+# 07 — SIEM detection project
 
 ## Overview
 

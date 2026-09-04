@@ -1,4 +1,4 @@
-# 05 — Ransomware incident response playbook
+# 06 — Ransomware incident response playbook
 
 ## Overview
 
